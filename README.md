@@ -1,0 +1,1 @@
+Password checker using Have I been pwned API: https://haveibeenpwned.com/API/v2
